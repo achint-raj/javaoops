@@ -1,0 +1,1 @@
+{"name":"Local: isanagram","url":"c:\\Users\\upadhyay-pc\\Desktop\\java@dsa\\isanagram.java","tests":[{"id":1666299164669,"input":"silent\nlisten","output":"Anagram"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\upadhyay-pc\\Desktop\\java@dsa\\isanagram.java","group":"local","local":true}
